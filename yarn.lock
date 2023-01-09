@@ -2755,8 +2755,8 @@ ltgt@^2.1.2:
   resolved "https://registry.yarnpkg.com/ltgt/-/ltgt-2.2.1.tgz#f35ca91c493f7b73da0e07495304f17b31f87ee5"
 
 luxon@^1.0.0, luxon@^1.12.0:
-  version "1.17.2"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.17.2.tgz#95189c450341cfddf5f826ef8c32b5b022943fd5"
+  version "1.28.1"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.28.1.tgz#528cdf3624a54506d710290a2341aa8e6e6c61b0"
 
 magic-string@^0.25.2:
   version "0.25.3"
